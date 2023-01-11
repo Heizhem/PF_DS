@@ -1,30 +1,66 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
-# **PROYECTOS FINALES DATA SCIENCE**
+# <h1 align=center> **PROYECTO FINAL ** </h1>
 
-![HenryMoon](https://blog.soyhenry.com/content/images/size/w2000/2022/01/Currcula-Henry.png)
+ANGEL ZAVALETA 
+CARLOS PORCEL
+JOSÉ ACEVEDO 
+LEONARDO CUETO
+NICOLÁS LIRA
 
-
-# <h1 align="center">**`¡Bienvenidos a bordo!`**</h1>
-
-Hemos llegado al último gran desafío de esta aventura.
-
-⚠️ **Advertencia**: ¡abrochar cinturones! 
-
-</br>
-
-## **¿Qué es el Proyecto Final?**
-
-Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una primera experiencia laboral dentro de un laboratorio educativo. El objetivo es integrar los conocimientos adquiridos en el bootcamp, enfrentarse al desafío de aprender nuevas habilidades técnicas y desarrollar soft skills que potencien el crecimiento del alumno.
-
-Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
-
-🚀 **Proyecto 1:** [Flujos Migratorios](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Flujos_Migratorios.md)
-
-🚀 **Proyecto 2:** [Data World: Tendencias del mercado laboral](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Tendencia_Mercado_Laboral.md)
-
-🚀 **Proyecto 3:** [E-commerce Olist](https://github.com/soyHenry/PF_DS/blob/main/Proyectos/E-Commerce.md)
+# <h1 align=center>**`OLIST`**</h1>
 
 
-</br> <p align="center"> <img src= "https://media.giphy.com/media/N6YkmfQBeEEjLDcoDl/giphy.gif" height="200"> </p>
+## **Introducción**
 
+La parte de Business Analytics es una de las más importantes dentro de todo el mundo del procesamiento de datos, 
+justo en este parte comienza en Analisis Exploratiorio de Datos a tomar forma, para poder ir sacando conclusiones a medida que nos vamos adentrando en los Datasets
+
+## **Propuesta de trabajo**
+
+El proyecto consiste en la ingesta de información que hace referencia a la base de datos de los accesos a internet en Argentina, dándonos los registros del número de conexiones por año, velocidad promedio de bajada,
+localidades con mayor conexión a internet, entre otros.
+Posteriormente se realiza un EDA y un poco Business Analytics para poder generar una conclusión  y diversos KPI's en base a ellos.
+
+
+## Entendimiento de la situación actual
+
+
+## Objetivos específicos del trabajo y del grupo
+
+
+## Alcance y fuera de alcance
+
+
+## Solución propuesta
+1. Stack tecnologico
+	<img src="https://th.bing.com/th/id/OIP.fbVr5gXeIrChfkbOU_S3vgAAAA?pid=ImgDet&rs=1" style="width: 3vw; min-width: 100px;" /><img src="https://th.bing.com/th/id/R.09ba0105b3bc11dac5b7c09443812189?rik=7UmhMl5FciECwQ&riu=http%3a%2f%2famueller.github.io%2fsklearn_014_015_pydata%2fsklearn-logo.png&ehk=%2fdoHlCDrKDgQK%2bMOem6eU3lvCRQHqQrt9J%2f3veiO1Pw%3d&risl=&pid=ImgRaw&r=0" style="width: 3vw; min-width: 100px;" /> <img src="https://th.bing.com/th/id/OIP.p9U41JwQ1DIfoRou4qIJvAHaC_?pid=ImgDet&rs=1" style="width: 5vw; min-width: 120px;" />
+
+	Python (mysql lite, pandas, numpy…..pendiente), MySQL, Power BI
+
+2. Metodología de trabajo:
+	SCRUM (metodología ágil)
+
+3. Diseño detallado
+
+4. Roles y responsabilidades
+
+	ANGEL ZAVALETA - Data Analyst
+	CARLOS PORCEL - Data Engineer
+	JOSÉ ACEVEDO - Data Engineer
+	LEONARDO CUETO Data Analyst
+	NICOLÁS LIRA Data Analyst
+
+5. Cronograma general
+
+## **Estructura del proyecto**
+
+El proyecto tiene 4 carpetas principales: 
+
+1. main1.ipynb - contiene el código del EDA correspondiente para poder generar conclusiones.
+
+2. EDA1.sql - contiene únicamente la generación de la tabla DatosTrimestralesNacionales'
+
+3. Datasets - contiene las carpetas con los Datasets otorgados para el proyecto y una carpeta con dos set de datos generados posteriormente en python
+
+4. DashboardAnalisis.pbix - contiene el archivo de PowerBI en donde se generó y trabajó el Dashboard
